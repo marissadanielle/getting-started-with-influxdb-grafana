@@ -1,0 +1,4 @@
+#datatype dateTime,field,measurement,measurement,measurement,tag,tag
+timestamp,sensorID,moisture,lat,lon,plant_name,soil_type
+2023-02-21T16:47:21Z,1,18.072,37.8715,-122.273,Jade,compost
+2023-02-21T16:47:23Z,1,18.072,37.8715,-122.273,Jade,compost
